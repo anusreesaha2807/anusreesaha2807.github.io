@@ -25,6 +25,9 @@ I have taught and mentored undergraduate and postgraduate students in India and 
 
 - Moin, M., Saha, A., Bakshi, A., Madhav, M. S., and Kirti, P. B. (2021). Constitutive expression of Ribosomal Protein L6 modulates salt tolerance in rice transgenic plants. *Gene*, 789, 145670. [Link](https://www.sciencedirect.com/science/article/pii/S037811192100264X?via%3Dihub)
 
+## Exhaustive list of publication
+(See full list on [Google Scholar](https://scholar.google.com/citations?user=E5tR86MAAAAJ&hl=en&oi=ao))
+
   
   
 
