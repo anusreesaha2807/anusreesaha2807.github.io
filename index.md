@@ -4,7 +4,7 @@ title: Anusree Saha
 
 <img src="https://raw.githubusercontent.com/anusreesaha2807/anusreesaha2807.github.io/main/Anusree_website.jpeg" 
      alt="My Picture" 
-     width="150" 
+     width="175" 
      style="float: left; margin-right: 10px;">
 
 
