@@ -23,6 +23,8 @@ I have taught and mentored undergraduate and postgraduate students in India and 
 
 - Moin, M., Bakshi, A., Saha, A., Udaya Kumar, M., Reddy, A. R., Rao, K. V., Siddiq, E. A., and Kirti, P. B. (2016). Activation tagging in indica rice identifies ribosomal proteins as potential targets for manipulation of water-use efficiency and abiotic stress tolerance in plants. *Plant, Cell & Environment*, 39(11), 2440–2459. [Link](https://onlinelibrary.wiley.com/doi/10.1111/pce.12796)
 
+- Moin, M., Saha, A., Bakshi, A., Madhav, M. S., and Kirti, P. B. (2021). Constitutive expression of Ribosomal Protein L6 modulates salt tolerance in rice transgenic plants. *Gene*, 789, 145670. [Link](https://www.sciencedirect.com/science/article/pii/S037811192100264X?via%3Dihub)
+
   
   
 
