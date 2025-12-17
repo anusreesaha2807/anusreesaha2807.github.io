@@ -30,6 +30,11 @@ I have taught and mentored undergraduate and postgraduate students in India and 
 
   
 ![My Picture](https://github.com/anusreesaha2807/anusreesaha2807.github.io/blob/4836215eea83d8d16b30889107849a6eff48e151/Anusree_website.jpeg)
+<img src="https://github.com/anusreesaha2807/anusreesaha2807.github.io/blob/4836215eea83d8d16b30889107849a6eff48e151/Anusree_website.jpeg" 
+     alt="My Picture" 
+     width="150" 
+     style="float: left; margin-right: 10px;">
+
 
 
 
