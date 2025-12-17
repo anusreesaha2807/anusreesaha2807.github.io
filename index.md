@@ -2,6 +2,11 @@
 title: Anusree Saha
 ---
 
+<img src="https://github.com/anusreesaha2807/anusreesaha2807.github.io/blob/4836215eea83d8d16b30889107849a6eff48e151/Anusree_website.jpeg" 
+     alt="My Picture" 
+     width="150" 
+     style="float: left; margin-right: 10px;">
+
 # Anusree Saha
 
 Postdoctoral Research Associate  
@@ -28,12 +33,7 @@ I have taught and mentored undergraduate and postgraduate students in India and 
 ## Exhaustive list of publication
 (See full list on [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AElLoL3i1UsAt6If4OWV64wcEXOXFthmYAEutb6W3rTaetPaLQPcdkk_lnQZWmk84m0fWJAEfK97qpoHcmEgyg&user=jJwgf0QAAAAJ))
 
-  
-![My Picture](https://github.com/anusreesaha2807/anusreesaha2807.github.io/blob/4836215eea83d8d16b30889107849a6eff48e151/Anusree_website.jpeg)
-<img src="https://github.com/anusreesaha2807/anusreesaha2807.github.io/blob/4836215eea83d8d16b30889107849a6eff48e151/Anusree_website.jpeg" 
-     alt="My Picture" 
-     width="150" 
-     style="float: left; margin-right: 10px;">
+
 
 
 
