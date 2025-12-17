@@ -14,7 +14,8 @@ I study plant–microbe interactions, arbuscular mycorrhizal symbiosis, and sust
 I have taught and mentored undergraduate and postgraduate students in India and at the University of Cambridge.
 
 ## Publications
-(You can add selected publications here.)
+- Saha A., Das S., Moin M., et al. (2017). Genome-wide identification and expression profiling of ribosomal protein genes in rice. *Frontiers in Plant Science*. [DOI](https://doi.org/10.3389/fpls.2017.01553)
+
 
 ## Contact
 Email: as3851@cam.ac.uk  
