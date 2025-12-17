@@ -15,7 +15,8 @@ I have taught and mentored undergraduate and postgraduate students in India and 
 
 ## Publications
 - Saha A., Das S., Moin M., et al. (2017). Genome-wide identification and expression profiling of ribosomal protein genes in rice. *Frontiers in Plant Science*. [DOI](https://doi.org/10.3389/fpls.2017.01553)
-- Moin, M*., Saha, A*., Bakshi, A., MS, M., and PB, K. (2021) Study on Transcriptional Responses and Identification of Ribosomal Protein Genes for Potential Resistance against Brown Planthopper and Gall Midge Pests in Rice,Current Genomics, 22(2), 98-110. *equal contribution [DOI] (10.2174/1389202922666210219113220)
+- Moin, M*., Saha, A*., Bakshi, A., MS, M., and PB, K. (2021) Study on Transcriptional Responses and Identification of Ribosomal Protein Genes for Potential Resistance against Brown Planthopper and Gall Midge Pests in Rice,Current Genomics, 22(2), 98-110. *equal contribution [link] (https://pmc.ncbi.nlm.nih.gov/articles/PMC8188583/)
+- 
 
 
 ## Contact
